@@ -10,7 +10,7 @@ This project involves creating an interactive and visually appealing dashboard t
 - **DAX Formulas**: Used for advanced calculations to extract insights.
 
 ## Data Sources
-- Data collected from various websites.
+- Data gathered from multiple sources including Kaggle and Google Dataset Search.
 - APIs, including RapidAPI, for up-to-date information.
 
 ## Tools and Technologies
